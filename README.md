@@ -85,3 +85,4 @@ Last updated 2025-04-24
 - [Irdeto](https://careers.irdeto.com/search)
 - [Honeywell](https://careers.honeywell.com/us/en/search-results)
 - [March](https://www.marchnetworks.com/careers/#job-openings)
+- [Alphawave Semi](https://alphawave.wd10.myworkdayjobs.com/Alphawave_External)
