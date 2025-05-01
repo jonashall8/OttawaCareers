@@ -2,7 +2,7 @@
 
 A list of companies with a presence in the Ottawa region
 
-Last updated 2025-04-27
+Last updated 2025-04-31
 
 - [Alphawave Semi](https://alphawave.wd10.myworkdayjobs.com/Alphawave_External)
 - [AMD](https://careers.amd.com/careers-home/jobs)
