@@ -43,6 +43,7 @@ Last updated 2025-04-27
 - [Harris](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1)
 - [Honeywell](https://careers.honeywell.com/us/en/search-results)
 - [HP](https://apply.hp.com/careers/search)
+- [Huawei](https://career.huawei.com/reccampportal/portal5/index.html)
 - [Irdeto](https://careers.irdeto.com/search)
 - [Jabil](https://careers.jabil.com/en/jobs/)
 - [Kinaxis](https://careers-kinaxis.icims.com/jobs/search)
