@@ -54,7 +54,7 @@ Last updated 2025-04-27
 - [Mitel](https://mitel.wd3.myworkdayjobs.com/mitelcareers)
 - [N-able](https://careers.n-able.com/jobs)
 - [nanometrics](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3d178141-59e5-45ba-a347-db3cfa0b5d08&ccId=19000101_000001&type=MP&lang=en_CA)
-- [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/)
+- [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs)
 - [numbercrunch](https://www.numbercrunch.ca/careers/)
 - [NXP](https://nxp.wd3.myworkdayjobs.com/careers)
 - [opentext](https://careers.opentext.com/us/en/search-results)
