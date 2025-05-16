@@ -2,7 +2,7 @@
 
 A list of companies with a presence in the Ottawa region
 
-Last updated 2025-05-13
+Last updated 2025-05-16
 
 - [Alphawave Semi](https://alphawave.wd10.myworkdayjobs.com/Alphawave_External)
 - [AMD](https://careers.amd.com/careers-home/jobs)
@@ -45,7 +45,7 @@ Last updated 2025-05-13
 - [GEMTEC](https://www.gemtec.ca/careers.html)
 - [Genomadix](https://genomadix.com/careers-2/)
 - [Harris](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1)
-- [Honeywell](https://careers.honeywell.com/us/en/search-results)
+- [Honeywell](https://careers.honeywell.com/en/sites/Honeywell/jobs)
 - [HP](https://apply.hp.com/careers/search)
 - [Huawei](https://career.huawei.com/reccampportal/portal5/index.html)
 - [Irdeto](https://careers.irdeto.com/search)
