@@ -54,6 +54,7 @@ Last updated 2025-05-16
 - [Kinaxis](https://careers-kinaxis.icims.com/jobs/search)
 - [Kongsberg](https://www.kongsberggeospatial.com/company/careers)
 - [Leonardo DRS](https://careers.leonardodrs.com/search)
+- [Lumentum](https://lumentum.wd5.myworkdayjobs.com/)
 - [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/)
 - [March](https://www.marchnetworks.com/careers/#job-openings)
 - [Martello](https://martellotech.com/careers/#open-positions)
