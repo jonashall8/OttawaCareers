@@ -47,7 +47,7 @@ Last updated 2025-05-16
 - [Harris](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1)
 - [Honeywell](https://careers.honeywell.com/en/sites/Honeywell/jobs)
 - [HP](https://apply.hp.com/careers/search)
-- [Huawei](https://career.huawei.com/reccampportal/portal5/index.html)
+- [Huawei](https://huaweicanada.recruitee.com/)
 - [Irdeto](https://careers.irdeto.com/search)
 - [Jabil](https://careers.jabil.com/en/jobs/)
 - [Juniper Networks](https://jobs.juniper.net/careers)
