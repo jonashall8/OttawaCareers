@@ -61,6 +61,7 @@ Last updated 2025-06-12
 - [Honeywell](https://careers.honeywell.com/en/sites/Honeywell/jobs)
 - [HP](https://apply.hp.com/careers/search)
 - [Huawei](https://huaweicanada.recruitee.com/)
+- [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac)
 - [Irdeto](https://careers.irdeto.com/search)
 - [Jabil](https://careers.jabil.com/en/jobs/)
 - [Juniper Networks](https://jobs.juniper.net/careers)
