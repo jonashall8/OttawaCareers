@@ -2,7 +2,7 @@
 
 A list of companies with a presence in the Ottawa region
 
-Last updated 2025-06-12
+Last updated 2025-06-23
 
 - [AffinityClick](https://affinityclick.com/careers/)
 - [AGF Group](https://groupeagf.com/en/careers/job-opportunities/)
@@ -16,7 +16,7 @@ Last updated 2025-06-12
 - [Artaflex](https://artaflex.com/careers/)
 - [Augmentt](https://augmentt.applytojobs.ca/)
 - [Axiel](https://careers.axiell.com/)
-- [Baker Tilly](https://www.bakertilly.ca/en/btc/bt-careers/be-true/opportunities)
+- [Baker Tilly](https://www.bakertilly.ca/careers/opportunities)
 - [Bank of Canada](https://careers.bankofcanada.ca/go/All-Job-Opportunities/2400817/)
 - [Barracuda Networks](https://www.barracuda.com/company/careers)
 - [Bell](https://jobs.bell.ca/ca/en/search-results)
@@ -48,7 +48,7 @@ Last updated 2025-06-12
 - [Crank AMETEK](https://www.cranksoftware.com/about/careers)
 - [Curtiss-Wright](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site)
 - [Dafocom](https://dafocom.com/careers/)
-- [Defence Construction Canada](https://phh.tbe.taleo.net/phh04/ats/careers/v2/jobSearch)
+- [Defence Construction Canada](https://www.dcc-cdc.gc.ca/careers)
 - [Definity](https://careers.definityfinancial.com/search/jobs/)
 - [Dell](https://jobs.dell.com/en/search-jobs)
 - [Deloitte](https://careers.deloitte.ca/search/)
