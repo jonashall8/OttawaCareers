@@ -83,6 +83,7 @@ Last updated 2025-06-12
 - [Honeywell](https://careers.honeywell.com/en/sites/Honeywell/jobs)
 - [HP](https://apply.hp.com/careers/search)
 - [Huawei](https://huaweicanada.recruitee.com/)
+- [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac)
 - [IBM](https://www.ibm.com/careers/search)
 - [Intact](https://careers.intactfc.com/ca/en/search-results)
 - [IQVIA](https://jobs.iqvia.com/en/search-jobs)
