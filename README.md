@@ -32,6 +32,7 @@ Last updated 2025-06-23
 - [BTA Design Services](https://www.btadesignservices.com/careers/)
 - [BWXT](https://careers.bwxt.com/search/?createNewAlert=false&q=&locationsearch=)
 - [Calian](https://careers.calian.com/careers/)
+- [Canadian Bank Note](https://cbnco.com/careers/opportunities/)
 - [Canada Post](https://jobs.canadapost.ca/go/Canada-Post-All-Current-Opportunities/2319117/)
 - [Canonical](https://canonical.com/careers)
 - [CGI](https://cgi.njoyn.com/)
