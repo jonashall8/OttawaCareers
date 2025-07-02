@@ -84,6 +84,7 @@ Last updated 2025-06-23
 - [Honeywell](https://careers.honeywell.com/en/sites/Honeywell/jobs)
 - [HP](https://apply.hp.com/careers/search)
 - [Huawei](https://huaweicanada.recruitee.com/)
+- [Hydro Ottawa](https://hydroottawa.wd3.myworkdayjobs.com/en-US/hydro_ottawa_careersite/details/Distribution-Engineer_R002587)
 - [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac)
 - [IBM](https://www.ibm.com/careers/search)
 - [Intact](https://careers.intactfc.com/ca/en/search-results)
