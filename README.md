@@ -92,6 +92,7 @@ Last updated 2025-06-23
 - [Iversoft](https://www.iversoft.ca/careers-at-iversoft/)
 - [Jabil](https://careers.jabil.com/en/jobs/)
 - [Juniper Networks](https://jobs.juniper.net/careers)
+- [JSI](https://recruiting.ultipro.ca/JAT5000JAT/JobBoard/df50e66e-c710-4410-afdb-88066904e063/?q=&o=postedDateDesc) 
 - [Kinaxis](https://careers-kinaxis.icims.com/jobs/search)
 - [Klipfolio](https://www.klipfolio.com/about/careers)
 - [Kongsberg](https://www.kongsberggeospatial.com/company/careers)
