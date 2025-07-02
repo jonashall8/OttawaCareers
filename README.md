@@ -73,6 +73,7 @@ Last updated 2025-06-23
 - [Fullscript](https://fullscript.com/careers#board)
 - [GEMTEC](https://www.gemtec.ca/careers.html)
 - [General Dynamics](https://www.gd.com/careers/job-search)
+- [Gastops](https://www.gastops.com/careers/)
 - [Genomadix](https://genomadix.com/careers-2/)
 - [Gerdau](https://careers.gerdau.com/view-all-jobs)
 - [Giatec](https://www.giatecscientific.com/careers)
