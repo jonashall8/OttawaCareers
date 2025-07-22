@@ -72,7 +72,7 @@ Last updated 2025-06-23
 - [Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs)
 - [Fullscript](https://fullscript.com/careers#board)
 - [GEMTEC](https://www.gemtec.ca/careers.html)
-- [General Dynamics](https://www.gd.com/careers/job-search)
+- [General Dynamics](https://gdmissionsystems.ca/careers/job-search)
 - [Gastops](https://www.gastops.com/careers/)
 - [Genomadix](https://genomadix.com/careers-2/)
 - [Gerdau](https://careers.gerdau.com/view-all-jobs)
