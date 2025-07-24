@@ -144,6 +144,7 @@ Last updated 2025-06-23
 - [Renesas](https://jobs.renesas.com/jobs)
 - [Ribbon Communications](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers)
 - [Ross Video](https://earlyaccess.dayforcehcm.com/CandidatePortal/en-US/rossvideo)
+- [Searidge Technologies](https://searidgetech.com/careers/) 
 - [Sanmina](https://careers.sanmina.com/job-search)
 - [Sectigo](https://careers.smartrecruiters.com/Sectigo)
 - [SEMTECH](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/)
